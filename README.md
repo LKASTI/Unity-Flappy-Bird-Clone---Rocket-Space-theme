@@ -1,5 +1,5 @@
-###Rocket Space themed Android Flappy Bird Project
+Rocket Space themed Android Flappy Bird Project
 
-##Demo
-/
+Demo
+
 ![](https://github.com/LKASTI/Unity-Flappy-Bird-Clone---Rocket-Space-theme/blob/main/flappybirdclone-demo.gif)
