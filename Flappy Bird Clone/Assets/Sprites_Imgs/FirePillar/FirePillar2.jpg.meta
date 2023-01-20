@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 860d26f9d6d9b374fb0e2c02827e5eaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6781529237937884852
+    second: ff7f639de6ab66ef88510a90b90ee864_0
+  - first:
+      213: 8667768166274137262
+    second: ff7f639de6ab66ef88510a90b90ee864_1
+  - first:
+      213: 2287805889922096692
+    second: ff7f639de6ab66ef88510a90b90ee864_2
+  - first:
+      213: 2933569362527023985
+    second: ff7f639de6ab66ef88510a90b90ee864_3
+  - first:
+      213: -4238877113461861207
+    second: ff7f639de6ab66ef88510a90b90ee864_4
+  - first:
+      213: 4525073595854122716
+    second: ff7f639de6ab66ef88510a90b90ee864_5
+  - first:
+      213: -6916359077352245337
+    second: ff7f639de6ab66ef88510a90b90ee864_6
+  - first:
+      213: 8630322839226442538
+    second: ff7f639de6ab66ef88510a90b90ee864_7
+  - first:
+      213: 4232674650332878424
+    second: ff7f639de6ab66ef88510a90b90ee864_8
+  - first:
+      213: -6459177312208439959
+    second: ff7f639de6ab66ef88510a90b90ee864_9
+  - first:
+      213: 3908772403652007499
+    second: ff7f639de6ab66ef88510a90b90ee864_10
+  - first:
+      213: 1532046857783075640
+    second: ff7f639de6ab66ef88510a90b90ee864_11
+  - first:
+      213: 5404813082761354113
+    second: FirePillar2_0
+  - first:
+      213: 3150897966911936523
+    second: FirePillar2_1
+  - first:
+      213: 7619751178538055914
+    second: FirePillar2_2
+  - first:
+      213: 2918671893614984374
+    second: FirePillar2_3
+  - first:
+      213: -7486865898639814249
+    second: FirePillar2_4
+  - first:
+      213: 8173321192216183398
+    second: FirePillar2_5
+  - first:
+      213: -6069506368521639004
+    second: FirePillar2_6
+  - first:
+      213: -5446728039500619164
+    second: FirePillar2_7
+  - first:
+      213: -3511704428002872195
+    second: FirePillar2_8
+  - first:
+      213: 178090529781846909
+    second: FirePillar2_9
+  - first:
+      213: -8950446838638283945
+    second: FirePillar2_10
+  - first:
+      213: 2721049267894528242
+    second: FirePillar2_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FirePillar2_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 692
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5000019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bdf53ecd0c10b40800000000000000
+      internalID: 5404813082761354113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar2_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 674
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b085949b10d3abb20800000000000000
+      internalID: 3150897966911936523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar2_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 649
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8ff91635bceb960800000000000000
+      internalID: 7619751178538055914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar2_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 628
+        width: 39
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc76da9f94318820800000000000000
+      internalID: 2918671893614984374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar2_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 546
+        width: 37
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791969ed12f491890800000000000000
+      internalID: -7486865898639814249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar2_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 490
+        width: 40
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662c739f1587d6170800000000000000
+      internalID: 8173321192216183398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar2_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 492
+        width: 41
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abeb4e8d18c4cba0800000000000000
+      internalID: -6069506368521639004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar2_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 492
+        width: 40
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462e761c4b55964b0800000000000000
+      internalID: -5446728039500619164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar2_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 489
+        width: 38
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74f8b4bd6be34fc0800000000000000
+      internalID: -3511704428002872195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar2_9
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 488
+        width: 41
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73128da464b87200800000000000000
+      internalID: 178090529781846909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar2_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 489
+        width: 39
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75372f19500a9c380800000000000000
+      internalID: -8950446838638283945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirePillar2_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 490
+        width: 43
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8a03574eb13c520800000000000000
+      internalID: 2721049267894528242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
